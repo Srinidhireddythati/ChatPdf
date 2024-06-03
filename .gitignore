@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment
+env/
+
+# VS Code
+.vscode/
+
+# PyPDF2
+*.pdf
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
